@@ -270,7 +270,7 @@ Potential enhancements include:
 
 ---
 
-**Project:** Java Banking System  
+**Project:** payment processing engine  
 **Maintainer:** Dheeraj Patel
 
 This project is intended for educational purposes and can be extended as a foundation for learning backend development and banking application design.
